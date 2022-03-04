@@ -1,4 +1,2 @@
-# darzin
-My Portfolio
-A personal portfolio project.
-Profile link https://ajayparihar.github.io/darzin.
+QA project.
+link https://ajayparihar.github.io/QA_Project/.
